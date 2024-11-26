@@ -1,4 +1,2 @@
-# Hello-World
-This repository is for practicing the GitHub Flow.
-
-Hey I'm Alvin and these are the first few bits of changes made to this branch.
+# About me
+Hey I'm Alvin. I'm a total noob at this and these are the first few bits of changes made to this branch.
